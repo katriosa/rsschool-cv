@@ -22,20 +22,21 @@ HTML, CSS, JAVASCRIPT
 
 ## Projects
 
-[CV](https://github.com/katriosa/rsschool-cv.git)
-[Forkify project](https://forkify-kate.netlify.app)
+- [CV](https://github.com/katriosa/rsschool-cv.git)
+
+- [Forkify project](https://forkify-kate.netlify.app)
 
 ## Education
 
-__2010 - 2014__ State University of Aerospace Instrumentation.
+__2010 - 2014:__ State University of Aerospace Instrumentation.
 
 - Faculty of Innovation
 
-__2021 - 2022__ Udemy. 
+__2021 - 2022:__ Udemy. 
 
 - The Complete JavaScript Course 2022: From Zero to Expert.
 
-__2022 - present__ RS school. 
+__2022 - present:__ RS school. 
 
 - JavaScript/Front-end 2022
 
