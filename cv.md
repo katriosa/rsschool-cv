@@ -20,9 +20,10 @@ An aspiring frondend developer.
 
 HTML, CSS, JAVASCRIPT
 
-## Experience
+## Projects
 
-Forkify project
+[CV](https://github.com/katriosa/rsschool-cv.git)
+[Forkify project](https://forkify-kate.netlify.app)
 
 ## Education
 
