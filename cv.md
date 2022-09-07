@@ -26,11 +26,17 @@ Forkify project
 
 ## Education
 
-2010 - 2014 University of Aerospace Instrumentation. the Faculty of Innovation
+__2010 - 2014__ State University of Aerospace Instrumentation.
 
-2021 - 2022 Udemy. Javascript from the ground up course by Jonas
+- Faculty of Innovation
 
-2022 - recently RS school. Javascript course
+__2021 - 2022__ Udemy. 
+
+- The Complete JavaScript Course 2022: From Zero to Expert.
+
+__2022 - present__ RS school. 
+
+- JavaScript/Front-end 2022
 
 ## Language
 
