@@ -43,3 +43,22 @@ __2023 - present:__ RS school.
 Russian: native
 
 English: pre-intermediate
+
+## Example code
+
+_Task: Return the number (count) of vowels in the given string._
+
+_We will consider a, e, i, o, u as vowels for this Kata (but not y)._
+
+_The input string will only consist of lower case letters and/or spaces._
+
+```javascript
+function getCount(str) {
+  let vowelsCount = 0;
+  const counts = ["a", "e", "i", "o", "u"];
+  str.split("").forEach(function (letter) {
+    counts.includes(letter) ? vowelsCount++ : vowelsCount;
+  });
+  return vowelsCount;
+}
+```
